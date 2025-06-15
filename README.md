@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning AI Development 
 - 📫 How to reach me @ivaxxo in Telegram
 - My favorite language:
-- 1) C++
-  2) C#
+- C++ and C#
 - Most of all, I am passionate about software development
 
 <!---
