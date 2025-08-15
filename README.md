@@ -6,7 +6,28 @@
   </h1>
 </div>
 
+🌱 I’m currently learning Rust
 📫 How to reach me @ivaxxo in telegram
+⚡ Fun fact: I'm autistic people
+
+---
+
+### :man_technologist: About Me :
+
+I am a 17-year-old Russian developer with autism. That's why I like to explore everything to the depths, and I can combine images in my head to generate creative ideas.
+
+---
+
+---
+
+### 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Weitos&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Weitos GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weitos&theme=dark&layout=compact" alt="Top Languages" />
+</p>
+
+---
 
 <!--
 **Weitos/Weitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +41,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
