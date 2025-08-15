@@ -6,14 +6,14 @@
   </h1>
 </div>
 
-🌱 I’m currently learning Rust
-📫 How to reach me @ivaxxo in telegram
-⚡ Fun fact: I'm autistic people
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me @ivaxxo in telegram
+- ⚡ Fun fact: I'm autistic people
 
 ---
 
 ### :man_technologist: About Me :
-
+ 
 I am a 17-year-old Russian developer with autism. That's why I like to explore everything to the depths, and I can combine images in my head to generate creative ideas.
 
 ---
