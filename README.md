@@ -7,7 +7,7 @@
 </div>
 
 <div id="body" align="center">
-  ### :man_technologist: I am a 17-year-old Russian developer with autism. That's why I like to explore everything to the depths, and I can combine images in my head to generate creative ideas.
+  <h3>:man_technologist: I am a 17-year-old Russian developer with autism. That's why I like to explore everything to the depths, and I can combine images in my head to generate creative ideas.</h3>
 </div>
 
 - 🌱 I’m currently learning Rust
