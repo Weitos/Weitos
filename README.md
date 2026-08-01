@@ -11,14 +11,14 @@
 
 <div id=body" align="center">
   <h3> 
-    I'm learning the Rust programming language 🔧 to create my own programming language, 
-    Yoo (based on the first letter of my last name) 🐛, 
-    high-load services ⚙️, and Data Learning. I'm also interested in Zig ✨ for system programming (OSDev). 
+    I'm learning the Rust programming language 🔧 to machine learning, 
+    and making on C++ custom programming lang for GameDev(FLang) 🐛, 
+    high-load services on Rust ⚙️. I'm also interested in Unity(C#) ✨. 
   </h3>
 </div>
 
 # 💫 About Me
-- 🔭 I’m working on Astrek Labs (my)
+- 🔭 I’m working on PlayMe Studio (my)
 - 🌱 I’m studying in IThub college
 - 💬 Ask me about: weitos007@gmail.com
 - 📫 How to reach me: @ivaxxo
